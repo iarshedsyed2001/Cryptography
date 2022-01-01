@@ -30,8 +30,3 @@ For faster Encryption and Decryption file chunking and threading are done on the
 7. After the process is completed the original file will be retrieved.
 
 > The Complexity for both the processes is O(n) and with threading, this is a very fast and secure process.<br>
-
-# Thank you  
-
-
-
